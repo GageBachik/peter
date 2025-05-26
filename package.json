@@ -1,0 +1,11 @@
+{
+  "name": "peter",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
