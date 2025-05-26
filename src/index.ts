@@ -1,2 +1,2 @@
 // src/index.ts
-console.log('Hello, peter!');
+console.log('Helloz, peter!');
